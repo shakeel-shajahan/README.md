@@ -43,8 +43,8 @@ My AI research and learning journey – exploring **Deep Learning, NLP, Computer
 
 ### Generative Models  
 - Diffusion Models  
-- VAEs (Variational Autoencoders)  
-- GANs – Generative Adversarial Networks  
+- VAEs (Variational Autoencoders)
+- GANs (Generative Adversarial Networks) 
 
 ---
 
