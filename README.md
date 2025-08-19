@@ -1,4 +1,4 @@
-# 🧠 AI Research & Learning Journey  
+# AI Research & Learning Journey  
 
 My AI research and learning journey – exploring **Deep Learning, NLP, Computer Vision, Transformers, LLMs, and Generative Models**.  
 
