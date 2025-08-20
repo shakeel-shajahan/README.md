@@ -9,7 +9,6 @@ My AI research and learning journey – exploring **Deep Learning, NLP, Computer
 ### Deep Learning  
 - CNN – Convolutional Neural Networks for image tasks  
 - RNN – Sequence modeling  
-- Autoencoders  
 
 ---
 
@@ -29,8 +28,10 @@ My AI research and learning journey – exploring **Deep Learning, NLP, Computer
 
 ### Transformers  
 - BERT  
-- GPT  
-- Vision Transformers  
+- GPT
+- Huggingface Transformers
+- Vision Transformers
+- Fine-Tuning  
 
 ---
 
